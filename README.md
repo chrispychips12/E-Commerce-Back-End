@@ -7,7 +7,7 @@ This project is the back end for an e-commerce site. It uses Express.js for the 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
-## Table of Contents
+
 
 ## Acceptance Criteria
 
@@ -24,10 +24,16 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
 ## GitHub Repo: https://github.com/chrispychips12/E-Commerce-Back-End
+## Video Tutorials (apologies its broken up in two) 
+- https://drive.google.com/file/d/17BMf9BPCnbXX6iFrfNdeLwVP4ywsDs6k/view
+- https://drive.google.com/file/d/1tiT5Oq5trMi716wEgsz9gpQ5jFE9ALUa/view
+
+  
+<img width="1617" alt="Screenshot 2024-09-29 at 11 55 43 AM" src="https://github.com/user-attachments/assets/f202ace1-aa9a-4b39-bd81-c258063d81b4">
 
 
+## Table of Contents
 
-# Installation
 - [Usage](#Usage) 
 - [API Endpoints](#API-Endpoints)
 - [Database Schema](#Database-Schema)
