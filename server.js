@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Use the routes defined in the routes folder
-app.use(routes);
+app.use('/api', routes); 
 
 // Sync Sequelize models to the database and start the server
 sequelize.sync({ force: false }).then(() => {
